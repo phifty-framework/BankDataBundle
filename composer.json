@@ -10,5 +10,6 @@
             "email": "yoanlin93@gmail.com"
         }
     ],
-    "autoload": { "psr-4":  { "BankDataBundle\\": "" } }
+    "autoload": { "psr-4":  { "BankDataBundle\\": "" } },
+    "extra": { "branch-alias": { "dev-master": "3.1.x-dev" } }
 }
