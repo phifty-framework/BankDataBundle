@@ -1,6 +1,7 @@
 {
     "name": "phifty/bankdatabundle",
     "type": "phifty-bundle",
+    "license": "proprietary",
     "require": {
         "corneltek/installers": "dev-master"
     },
