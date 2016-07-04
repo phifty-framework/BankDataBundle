@@ -1,6 +1,6 @@
 #!/usr/bin/env php
 <?php
-require 'main.php';
+require 'bootstrap.php';
 $bundle = \BankDataBundle\BankDataBundle::getInstance();
 $file = $bundle->locate() . DIRECTORY_SEPARATOR . 'Data' . DIRECTORY_SEPARATOR . 'bankcode.csv';
 $fp = fopen($file , 'r');
