@@ -1,5 +1,5 @@
 {
-    "name": "corneltek/adminui",
+    "name": "phifty/bankdatabundle",
     "type": "phifty-bundle",
     "require": {
         "corneltek/installers": "dev-master"
